@@ -1,4 +1,4 @@
-#STEM-2014-2016
+# STEM-2014-2016
 
 This repository contains all the project work for the Bishop Shanahan STEM TEAM 2014 - 2016
 
