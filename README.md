@@ -7,7 +7,7 @@ Matthew Horger,
 Andrew Johnson, 
 Angela Herb, 
 Stephen Anderson, 
-Conor Waldt, 
+Conor Waldt 
 
 2014-2015: 1st Place Regional Winner
            7th Place State winner
